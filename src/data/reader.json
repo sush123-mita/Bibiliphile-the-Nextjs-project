@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic Literature",
+      "year": 1925,
+      "rating": 4.5,
+      "description": "A story of wealth, love, and the American Dream set in the Roaring Twenties.",
+      "isRead": true,
+      "tags": ["classic", "romance", "tragedy"],
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "rating": 4.8,
+      "description": "A chilling vision of a totalitarian future society under constant surveillance.",
+      "isRead": false,
+      "tags": ["dystopia", "politics", "sci-fi"],
+       "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Historical Fiction",
+      "year": 1960,
+      "rating": 4.7,
+      "description": "A novel about childhood, injustice, and moral growth in the racially divided American South.",
+      "isRead": true,
+      "tags": ["classic", "justice", "coming-of-age"],
+       "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93"
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophical Fiction",
+      "year": 1988,
+      "rating": 4.3,
+      "description": "A shepherd boy’s journey in search of treasure teaches him about destiny and dreams.",
+      "isRead": false,
+      "tags": ["inspiration", "spiritual", "adventure"],
+       "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "rating": 4.6,
+      "description": "A witty exploration of love, class, and social expectations in 19th-century England.",
+      "isRead": true,
+      "tags": ["romance", "classic", "society"],
+          "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
